@@ -15,4 +15,5 @@
 * [豆瓣](https://www.douban.com/people/yisha7/)
 * [知乎](https://www.zhihu.com/people/yifeitao)
 * [雪球](https://xueqiu.com/u/2551471836)
-* 微信公众号<img src="https://github.com/ifeitao/ifeitao/blob/main/weixin.png" width="200px" />
+* 微信公众号
+<img src="https://github.com/ifeitao/ifeitao/blob/main/weixin.png" width="200px" />
