@@ -10,7 +10,7 @@
 
 ### Find me
 
-* [yifeitao@gmail.com](mailto:yifeitao@gmail.com)
+* <yifeitao@gmail.com>
 * [GitHub](https://github.com/ifeitao)
 * [Twitter](https://twitter.com/ifeitao)
 * [微博](https://weibo.com/u/1646113497)
@@ -18,4 +18,4 @@
 * [知乎](https://www.zhihu.com/people/yifeitao)
 * [雪球](https://xueqiu.com/u/2551471836)
 * 微信公众号
-  `<img src="https://github.com/ifeitao/ifeitao/blob/main/weixin.png" width="200px" />`
+  <img src="https://github.com/ifeitao/ifeitao/blob/main/weixin.png" width="200px" />
