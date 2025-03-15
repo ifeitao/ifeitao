@@ -1,4 +1,4 @@
-### bio
+## bio
 
 独立投资人，公开持仓运营“[朝闻道家庭投资基金](https://yifeitao.com/zhaowendao)”，九年年化投资收益率29%。
 
@@ -8,7 +8,7 @@
 
 中科大计算机硕士，曾任职西安卫星测控中心、筷子科技、创新奇智、网易游戏。
 
-### Find me
+## Find me
 
 * <yifeitao@gmail.com>
 * [GitHub](https://github.com/ifeitao)
